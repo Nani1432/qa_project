@@ -1,0 +1,6 @@
+# For Python
+venv/
+
+# Optional, just to be safe
+*.pyc
+__pycache__/
