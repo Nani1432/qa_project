@@ -5,8 +5,7 @@ venv/
 *.pyc
 __pycache__/
 
-chroma_db/2d6ee7fd-989d-4ae3-8b85-483ce6cb5763/length.bin
-chroma_db/chroma.sqlite3
+chroma_db/
 *.vs/
 *.vscode/
 .vscode/
